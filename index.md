@@ -1,11 +1,11 @@
 +++
-title: "Mac Dev Bootstrap — Fully Automated macOS Setup for Developers"
-author: "Justin Napolitano"
-date: "2025-10-31"
-tags: ["macOS", "automation", "zsh", "dotfiles", "brew", "developer-tools"]
-description: "A complete modular macOS bootstrap setup that automates Zsh, Homebrew, Powerlevel10k, GitHub SSH, and more. Set up your dev environment in minutes, not hours."
+title= "Mac Dev Bootstrap — Fully Automated macOS Setup for Developers"
+author= "Justin Napolitano"
+date= "2025-10-31"
+tags= ["macOS", "automation", "zsh", "dotfiles", "brew", "developer-tools"]
+description= "A complete modular macOS bootstrap setup that automates Zsh, Homebrew, Powerlevel10k, GitHub SSH, and more. Set up your dev environment in minutes, not hours."
 [extra]
-reaction: false
+reaction= false
 
 +++
 

@@ -1,12 +1,25 @@
 ---
-slug: "github-mac-dev"
-title: "mac-dev"
-repo: "justin-napolitano/mac-dev"
-githubUrl: "https://github.com/justin-napolitano/mac-dev"
-generatedAt: "2025-11-23T09:16:13.094922Z"
-source: "github-auto"
+slug: github-mac-dev
+title: 'mac-dev-bootstrap: Modular Makefile Setup for macOS Developer Environments'
+repo: justin-napolitano/mac-dev
+githubUrl: https://github.com/justin-napolitano/mac-dev
+generatedAt: '2025-11-23T09:16:13.094922Z'
+source: github-auto
+summary: >-
+  A Makefile-driven framework automates installation and configuration of tools and preferences for
+  macOS developer setups using modular shell scripts.
+tags:
+  - macos
+  - makefile
+  - shell-scripting
+  - developer-environment
+seoPrimaryKeyword: mac-dev-bootstrap
+seoSecondaryKeywords:
+  - macos developer setup
+  - makefile automation
+  - shell scripts
+seoOptimized: true
 ---
-
 
 # mac-dev-bootstrap: A Modular Make-Driven macOS Developer Setup
 
@@ -70,3 +83,4 @@ The setup assumes macOS 12 or higher with Xcode Command Line Tools installed and
 ## Conclusion
 
 This project provides a practical, modular framework for automating macOS developer environment setup using a Makefile and shell scripts. It addresses common pain points in environment configuration by enabling repeatable, customizable, and maintainable setup processes. The approach balances simplicity with flexibility, making it a useful reference for developers seeking to streamline their macOS provisioning workflows.
+

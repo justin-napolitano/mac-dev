@@ -19,6 +19,12 @@ seoSecondaryKeywords:
   - makefile automation
   - shell scripts
 seoOptimized: true
+topicFamily: devtools
+topicFamilyConfidence: 0.95
+topicFamilyNotes: >-
+  The post is focused on configuring and automating a macOS developer environment via a Makefile and
+  shell scripts, which closely aligns with the 'Devtools' family's scope of development environment
+  setup including OS and shell configuration on macOS.
 ---
 
 # mac-dev-bootstrap: A Modular Make-Driven macOS Developer Setup
@@ -83,4 +89,5 @@ The setup assumes macOS 12 or higher with Xcode Command Line Tools installed and
 ## Conclusion
 
 This project provides a practical, modular framework for automating macOS developer environment setup using a Makefile and shell scripts. It addresses common pain points in environment configuration by enabling repeatable, customizable, and maintainable setup processes. The approach balances simplicity with flexibility, making it a useful reference for developers seeking to streamline their macOS provisioning workflows.
+
 

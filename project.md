@@ -1,20 +1,30 @@
 ---
 slug: github-mac-dev
 id: github-mac-dev
-title: mac-dev-bootstrap
+title: Automated macOS Developer Environment Setup with Make
 repo: justin-napolitano/mac-dev
 githubUrl: https://github.com/justin-napolitano/mac-dev
 generatedAt: '2025-11-24T21:35:33.255Z'
 source: github-auto
 summary: >-
-  A modular, make-driven setup for macOS developer environments. This repository
-  provides a streamlined way to configure a macOS system with essential
-  developer tools, applications, and preferences using a series of shell scripts
-  orchestrated by Make.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+  Streamline your macOS development environment setup using Make and shell
+  scripts for essential tools and configurations.
+tags:
+  - macOS
+  - Makefile
+  - Homebrew
+  - Zsh
+  - CLI tools
+  - Visual Studio Code
+  - shell scripting
+seoPrimaryKeyword: macOS developer environment setup
+seoSecondaryKeywords:
+  - automated macOS setup
+  - Makefile scripts
+  - Zsh configuration
+  - Homebrew installation
+  - development tools for macOS
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project

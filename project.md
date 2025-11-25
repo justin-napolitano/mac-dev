@@ -1,7 +1,7 @@
 ---
 slug: github-mac-dev
 id: github-mac-dev
-title: Automated macOS Developer Environment Setup with Make
+title: Modular macOS Developer Environment Setup with Make
 repo: justin-napolitano/mac-dev
 githubUrl: https://github.com/justin-napolitano/mac-dev
 generatedAt: '2025-11-24T21:35:33.255Z'
@@ -17,13 +17,14 @@ tags:
   - CLI tools
   - Visual Studio Code
   - shell scripting
+  - development environments
 seoPrimaryKeyword: macOS developer environment setup
 seoSecondaryKeywords:
   - automated macOS setup
-  - Makefile scripts
-  - Zsh configuration
-  - Homebrew installation
-  - development tools for macOS
+  - shell scripts for macOS
+  - installing developer tools macOS
+  - Makefile macOS configuration
+  - Zsh setup macOS
 seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null

@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/mac-dev
 generatedAt: '2025-11-24T21:35:33.255Z'
 source: github-auto
 summary: >-
-  Streamline your macOS development environment setup using Make and shell
-  scripts for essential tools and configurations.
+  Streamline your macOS development environment setup using Make and shell scripts for essential
+  tools and configurations.
 tags:
   - macOS
   - Makefile
@@ -26,8 +26,8 @@ seoSecondaryKeywords:
   - Makefile macOS configuration
   - Zsh setup macOS
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: devtools
+topicFamilyConfidence: 0.9
 kind: project
 entryLayout: project
 showInProjects: true
@@ -119,4 +119,5 @@ mac-dev/
 ---
 
 This setup aims to simplify the process of configuring a macOS development environment with repeatable, modular, and maintainable scripts.
+
 

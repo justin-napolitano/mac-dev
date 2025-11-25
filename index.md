@@ -1,30 +1,42 @@
 ---
 slug: github-mac-dev
-title: 'mac-dev-bootstrap: Modular Makefile Setup for macOS Developer Environments'
+title: Automate macOS Developer Setup with Makefile and Shell Scripts
 repo: justin-napolitano/mac-dev
 githubUrl: https://github.com/justin-napolitano/mac-dev
 generatedAt: '2025-11-23T09:16:13.094922Z'
 source: github-auto
 summary: >-
-  A Makefile-driven framework automates installation and configuration of tools and preferences for
-  macOS developer setups using modular shell scripts.
+  This guide details a modular approach to automate macOS developer environment
+  setup using Makefile and shell scripts for consistency and efficiency.
 tags:
   - macos
   - makefile
   - shell-scripting
   - developer-environment
-seoPrimaryKeyword: mac-dev-bootstrap
-seoSecondaryKeywords:
-  - macos developer setup
-  - makefile automation
   - shell scripts
+  - macOS
+  - homebrew
+  - developer tools
+  - zsh
+  - vscode
+seoPrimaryKeyword: macOS developer setup automation
+seoSecondaryKeywords:
+  - Makefile automation
+  - shell script setup
+  - homebrew installation
+  - custom macOS environment
+  - Zsh configuration
+  - CLI tools installation
 seoOptimized: true
 topicFamily: devtools
 topicFamilyConfidence: 0.95
 topicFamilyNotes: >-
-  The post is focused on configuring and automating a macOS developer environment via a Makefile and
-  shell scripts, which closely aligns with the 'Devtools' family's scope of development environment
-  setup including OS and shell configuration on macOS.
+  The post is focused on configuring and automating a macOS developer
+  environment via a Makefile and shell scripts, which closely aligns with the
+  'Devtools' family's scope of development environment setup including OS and
+  shell configuration on macOS.
+kind: project
+id: github-mac-dev
 ---
 
 # mac-dev-bootstrap: A Modular Make-Driven macOS Developer Setup
